@@ -1,0 +1,19 @@
+.fa-search {
+    color: blue;
+    position: relative;
+    left: 45px;
+    top: 20px;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  input {
+    padding: 15px 200px;
+    outline: none;
+    border: 1px solid rgb(238, 236, 236);
+    border-radius: 25px;
+    position: relative;
+    top: 25px;
+  }
